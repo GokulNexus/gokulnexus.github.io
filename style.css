@@ -431,3 +431,10 @@ margin-bottom: 15px;
 .about-section p:last-child {
 margin-bottom: 0;
 }
+.brand-name {
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    color: #00ff99;
+    margin-bottom: 20px;
+}
